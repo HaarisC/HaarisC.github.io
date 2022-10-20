@@ -1,5 +1,6 @@
-body{
 
-background: radial-gradient(103.03% 224.05% at 7% 45%, #0000FF 0%, #800080 85%); opacity: 0.2; filter: blur(30px); border-radius: 9999px;
 
+ body {
+ background-image:url('star.gif'); 
+background-repeat:repeat; 
 }
